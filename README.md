@@ -78,3 +78,8 @@ This repository is intended for developers, students, and healthcare IT professi
 
 _For questions or contributions, please open an issue or submit a pull request._
 
+---
+
+© 2025 SAMA UMESH REDDY. All rights reserved.
+
+
